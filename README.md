@@ -3,7 +3,8 @@ kodluyoruz-frontend-101-egitimi
 
 Bu repo [Kodluyoruz](https://github.com/ncanakyurek/kodluyoruzilkrepo.git) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](https://github.com/ncanakyurek/kodluyoruzilkrepo/assets/72356728/394a8d38-fd1b-4483-869f-e2ede5c82ada)
+
 
 ## Installation
 
